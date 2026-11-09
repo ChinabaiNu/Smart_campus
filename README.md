@@ -1,12 +1,12 @@
 # Smart_campus
 # AITU Smart Campus - Climate & Energy Monitoring System
 
-Final project for Information and Communication Technologies (ICT) course.
+Final project for ICT course.
 
 ## Team Members & Contributions
-* **Seksenbay Shyngys** - System architecture & backend database integration (SQLite).
-* **Talasbay** - Live environmental dashboard & UI components.
-* **Mansur** - Media optimization (WebP) & WCAG accessibility audit.
+* **Seksenbay Shyngys** (c-h-y-n-a)- System architecture & backend database integration.
+* **Talasbay Shynggys** - Live environmental dashboard & UI components.
+* **Kazhymurat Mansur** - Media optimization & WCAG accessibility audit.
 
 ## How to Run Locally
 
